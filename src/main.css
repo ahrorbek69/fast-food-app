@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #fcfcfc;
+    font-family: sans-serif;
+}
+
+h1,
+h2{
+font-size: 2.1rem;
+font-weight: 600;
+color: #212245;
+}
+
+a{
+text-decoration: none;
+color: unset;
+}
+section{
+    padding: 60px 0;
+}
+
+.logo__svg{
+    font-size: 90px;
+}
